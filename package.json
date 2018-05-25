@@ -1,0 +1,19 @@
+{
+  "name": "employ-d",
+  "version": "1.0.0",
+  "description": "An odd job posting application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstowe1/employ-d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstowe1/employ-d/issues"
+  },
+  "homepage": "https://github.com/rstowe1/employ-d#readme"
+}
