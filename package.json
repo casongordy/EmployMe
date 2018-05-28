@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rstowe1/employ-d/issues"
   },
-  "homepage": "https://github.com/rstowe1/employ-d#readme"
+  "homepage": "https://github.com/rstowe1/employ-d#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
 }
