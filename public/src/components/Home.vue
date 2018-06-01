@@ -1,7 +1,6 @@
 <template>
-  <div>
-    <h1>Home</h1>
-    <p>Lorem ipsum dolor.</p>
+  <div id="app">
+
   </div>
 </template>
 
