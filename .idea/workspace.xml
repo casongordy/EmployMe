@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6cdf6a7-1eac-4ff1-ad23-4481660a5710" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seed.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,7 +41,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1920" />
+    <option name="x" value="848" />
+    <option name="width" value="1072" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
@@ -63,31 +60,7 @@
             <path>
               <item name="employ-d" type="b2602c69:ProjectViewProjectNode" />
               <item name="employ-d" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="employ-d" type="b2602c69:ProjectViewProjectNode" />
-              <item name="employ-d" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="employ-d" type="b2602c69:ProjectViewProjectNode" />
-              <item name="employ-d" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="employ-d" type="b2602c69:ProjectViewProjectNode" />
-              <item name="employ-d" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="employ-d" type="b2602c69:ProjectViewProjectNode" />
-              <item name="employ-d" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="middlewares" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,24 +108,24 @@
       <workItem from="1527812163927" duration="470000" />
       <workItem from="1527956326224" duration="911000" />
       <workItem from="1527963038447" duration="53000" />
-      <workItem from="1527963147475" duration="1036000" />
+      <workItem from="1527963147475" duration="1563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5964000" />
+    <option name="totallyTimeSpent" value="6491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="0" width="993" height="900" extended-state="6" />
+    <frame x="848" y="0" width="1072" height="1080" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2708963" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25093284" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32572114" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3250988" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
