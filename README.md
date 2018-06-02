@@ -4,18 +4,23 @@
 
 ## Build Setup
 
-``` bash
+```
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# [development]
+# start application in development (it's a good practice to use `nodemon`
+# in development which will automatically reload the server on code changes
+# e.g. `nodemon --exec npm start`)
+npm start
 
-# build for production with minification
+# [production]
+# build production bundles, switch environment to production and run the server
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+npm config set employ-d:env production
+npm start
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Tutorials
+
+Vue.js tutorials: [Vue.js Cheatsheet](https://xpepermint.gitbooks.io/vue-js-cheatsheet/content/)
