@@ -1,4 +1,4 @@
-var events = require('./events.js');
+var events = require('../models/events.js');
 
 exports.events = function (req, res) {
   res.json(events);
