@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Employ Me</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+  <!-- jQuery -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+  <!-- Moment.js -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/moment.min.js"></script>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body>
+
+  <div class="jumbotron">
+    <h1 class="text-center">Employ Me</h1>
+    <h2>Post Local Jobs<h2>
+  </div>
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        <p class="cool-font">Name</p>
+        <input class="form-control" type="text" id="author" placeholder="Enter Your Name">
+        <br>
+        <p class="cool-font">Jobs</p>
+        <textarea class="form-control" rows="3" id="job-box" placeholder="Enter Job and Details Here"></textarea>
+        <button id="job-submit" class="btn btn-lg pull-right">Submit!</button>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        <h2>Jobs</h2>
+    <hr>
+    <div id="Job-area"></div>
+  </div>
+  </div>
+
+  </div>
+
+  <script type="text/javascript" src="js/jobs.js"></script>
+</body>
+
+</html>
