@@ -341,21 +341,10 @@
 /* Footer                                                                        */
 /*********************************************************************************/
 	
-	#footer
-	{
-		position: center;
-		background: white;
-		text-decoration-color: white;
-	}
-	
-	#footer h2
-	{
-		display: block;
-		color: #FFF;
-	}
+	/**/
 	
 #job-area{
 	background-color: transparent;
-	heigth: 100px;
-	width: 100px;
+	/*heigth: 100px;*/
+	/*width: 100px;*/
 }

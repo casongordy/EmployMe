@@ -1,6 +1,6 @@
 var Sequelize = require("sequelize");
 
-var sequelize = new Sequelize("jobs_DB", "root", "password", {
+var sequelize = new Sequelize("jobs_DB", "root", '', {
   host: "localhost",
   port: 3306,
   dialect: "mysql",
