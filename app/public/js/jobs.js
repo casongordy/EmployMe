@@ -1,4 +1,3 @@
-
 $("#job-submit").on("click", function(event) {
   event.preventDefault();
 
@@ -27,12 +26,12 @@ $("#job-submit").on("click", function(event) {
 
     });
 
-  // Empty each input box by replacing the value with an empty string
+
   $("#author").val("");
   $("#job-box").val("");
 });
 
-// When the page loads, grab all of our chirps
+
 $.get("/api/all", function(data) {
 
   if (data.length !== 0) {
