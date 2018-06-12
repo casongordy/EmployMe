@@ -12,7 +12,7 @@ You will need Node.js and Express.
 
 ### Installing
 
-After cloning the repo, you will need to do the following:
+After cloning the repo, you will need to do the following: 
 
 ```
 npm install
@@ -23,7 +23,7 @@ node server.js
 ```
 
 ```
-open a browser and go to localhost
+open a browser and go to http://localhost:8080
 
 ```
 
