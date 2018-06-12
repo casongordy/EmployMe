@@ -1,3 +1,5 @@
+![EmployMe Banner](https://raw.githubusercontent.com/casongordy/EmployMe/master/employmelogo.png)
+
 # EmployMe
 
 Marketplace for posting odd jobs. Deployed to Heroku. 
